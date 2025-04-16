@@ -78,9 +78,11 @@ Durante o treinamento, foram monitoradas:
 Essas métricas ajudam a compreender o comportamento do modelo ao longo das épocas e verificar se ele está aprendendo uma distribuição significativa.
 ---
 
-## 📌 Autor
+## 📧 Contato
 
-**Hian Stafford**  
+- 📌 **Autor**: Hian Stafford
+- 📩 **Email**: hian.correa@gmail.com
+- 
 ```text
   /\_/\  
  ( -.- ) 
