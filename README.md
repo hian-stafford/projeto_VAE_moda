@@ -82,7 +82,6 @@ Essas métricas ajudam a compreender o comportamento do modelo ao longo das épo
 
 - 📌 **Autor**: Hian Stafford
 - 📩 **Email**: hian.correa@gmail.com
-- 
 ```text
   /\_/\  
  ( -.- ) 
